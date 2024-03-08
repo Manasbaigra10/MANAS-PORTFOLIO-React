@@ -1,0 +1,338 @@
+.group2-container {
+  min-height: 100vh;
+}
+.group2-group2 {
+  width: 1772px;
+  height: 880px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group2-header {
+  top: 0px;
+  left: 0px;
+  width: 1766px;
+  height: 880px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group2-rectangle18 {
+  top: 356px;
+  left: 1054px;
+  width: 477px;
+  height: 454px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 227px;
+}
+.group2-bgpattern {
+  top: 160px;
+  left: 195px;
+  width: 1538px;
+  height: 720px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group2-line12 {
+  top: 0px;
+  left: 685px;
+  width: 24px;
+  height: 0px;
+  position: absolute;
+}
+.group2-line14 {
+  top: 508px;
+  left: 10.8359375px;
+  width: 20px;
+  height: 0px;
+  position: absolute;
+}
+.group2-line16 {
+  top: 274px;
+  left: 1387px;
+  width: 16px;
+  height: 0px;
+  position: absolute;
+}
+.group2-line18 {
+  top: 381px;
+  left: 1357px;
+  width: 20px;
+  height: 0px;
+  position: absolute;
+}
+.group2-line13 {
+  top: 14px;
+  left: 675px;
+  width: 24px;
+  height: 0px;
+  position: absolute;
+}
+.group2-line15 {
+  top: 517.5205078125px;
+  left: 0px;
+  width: 20px;
+  height: 0px;
+  position: absolute;
+}
+.group2-line17 {
+  top: 284px;
+  left: 1381px;
+  width: 16px;
+  height: 0px;
+  position: absolute;
+}
+.group2-line19 {
+  top: 393px;
+  left: 1349px;
+  width: 20px;
+  height: 0px;
+  position: absolute;
+}
+.group2-ellipse13 {
+  top: 504px;
+  left: 765px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  border-color: rgba(118, 8, 128, 1);
+  border-style: solid;
+  border-width: 4px;
+}
+.group2-ellipse16 {
+  top: 70px;
+  left: 1523px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  border-color: rgba(118, 8, 128, 1);
+  border-style: solid;
+  border-width: 4px;
+}
+.group2-ellipse15 {
+  top: 85px;
+  left: 632px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  border-color: rgba(118, 8, 128, 1);
+  border-style: solid;
+  border-width: 4px;
+}
+.group2-ellipse14 {
+  top: 24px;
+  left: 1156px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  border-color: rgba(118, 8, 128, 1);
+  border-style: solid;
+  border-width: 4px;
+}
+.group2-polygon1 {
+  top: 493px;
+  left: 1413px;
+  width: 27px;
+  height: 27px;
+  position: absolute;
+}
+.group2-polygon2 {
+  top: 217px;
+  left: 748px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.group2-ellipse21 {
+  top: 126px;
+  left: 796px;
+  width: 594px;
+  height: 550px;
+  position: absolute;
+}
+.group2-getintouchbtn {
+  top: 632px;
+  left: 368px;
+  width: 215px;
+  height: 61px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: #040404;
+  border-style: none;
+  border-width: 15px;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: #fdce2c;
+}
+.group2-text {
+  top: 21px;
+  left: 49px;
+  color: rgba(44, 44, 44, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group2-text02 {
+  top: 492px;
+  left: 368px;
+  color: rgba(106, 106, 106, 1);
+  width: 514px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: 201.39999389648438%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group2-text04 {
+  top: 321px;
+  left: 364px;
+  color: rgb(44, 44, 44);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 75px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: "Raleway";
+  font-weight: 700;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group2-text05 {
+  color: #2c2c2c;
+}
+.group2-text07 {
+  color: #fdce2c;
+}
+.group2-text10 {
+  top: 272px;
+  left: 314px;
+  color: rgb(183, 183, 183);
+  height: auto;
+  opacity: 0.90;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.group2-nav {
+  top: 0px;
+  left: 0px;
+  width: 1767px;
+  height: 130px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.group2-rectangle110 {
+  top: 0px;
+  left: 0px;
+  width: 1853px;
+  height: 130px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0.10000000149011612);
+  border-style: solid;
+  border-width: 1px;
+}
+.group2-mb21 {
+  top: 27px;
+  left: 301px;
+  width: 139px;
+  height: 86px;
+  position: absolute;
+  border-color: transparent;
+  mix-blend-mode: exclusion;
+}
+@media(max-width: 1600px) {
+  .group2-bgpattern {
+    left: 264px;
+    bottom: -83px;
+  }
+  .group2-ellipse21 {
+    left: 749px;
+    bottom: 17px;
+    border-radius: var(--dl-radius-radius-round);
+  }
+}
+@media(max-width: 1200px) {
+  .group2-mb21 {
+    top: 22px;
+    left: 86px;
+  }
+}
